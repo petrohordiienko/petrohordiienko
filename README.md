@@ -1,17 +1,19 @@
-### Hi there 👋
+## Hi there 👋
 
 🔹 Driving industries forward with innovative, cutting-edge technologies  
-🔹 Dynamic and results-driven Software Engineer with extensive experience in developing and architecting innovative solutions for various industries  
-🔹 Excelling across a spectrum of technological landscapes, embracing the forefront of innovation in software engineering  
-🔹 Skilled in leading cross-functional teams, driving collaboration, and delivering high-impact projects with precision and efficiency  
-🔹 Dedicated to staying updated with emerging technologies and leveraging them to solve complex problems
+🔹 Results-driven **Software Engineer** with extensive experience designing, developing and architecting modern software solutions  
+🔹 Excels across diverse technological landscapes, consistently embracing the forefront of innovation  
+🔹 Proven leader of cross-functional teams, fostering collaboration and delivering high-impact projects with precision  
+🔹 Committed to continuous learning and leveraging emerging technologies to solve complex problems  
 
-**References**:  
-Email:    [petro@hordiienko.co](mailto:petro@hordiienko.co)  
-LinkedIn: [petrohordiienko](https://www.linkedin.com/in/petrohordiienko)  
-Twitter:  [petrohordiienko](https://x.com/petrohordiienko)  
-Telegram: [petrohordiienko](https://t.me/petrohordiienko)  
-Website:  [petro.hordiienko.co](https://petro.hordiienko.co)
+[![Book a meeting](https://img.shields.io/badge/Book%20a%20meeting-Google%20Calendar-blue)](https://calendar.app.google/oUDm9WWao8D96wDDA)
+
+## 📫 Contact
+📧 **Email:** [petro@hordiienko.co](mailto:petro@hordiienko.co)  
+💼 **LinkedIn:** [linkedin.com/in/petrohordiienko](https://www.linkedin.com/in/petrohordiienko)  
+🐦 **Twitter / X:** [@petrohordiienko](https://twitter.com/petrohordiienko)  
+✈️ **Telegram:** [@petrohordiienko](https://t.me/petrohordiienko)  
+🌐 **Website:** [petro.hordiienko.co](https://petro.hordiienko.co)
 
 <!--
 **petrohordiienko/petrohordiienko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
