@@ -6,7 +6,9 @@
 🔹 Proven leader of cross-functional teams, fostering collaboration and delivering high-impact projects with precision  
 🔹 Committed to continuous learning and leveraging emerging technologies to solve complex problems  
 
-[![Book a meeting](https://img.shields.io/badge/Book%20a%20meeting-Google%20Calendar-blue)](https://calendar.app.google/oUDm9WWao8D96wDDA)
+[![Book a meeting](https://img.shields.io/badge/Book%20a%20meeting-blue)](https://calendar.app.google/oUDm9WWao8D96wDDA)
+[![Download CV](https://img.shields.io/badge/Download_CV-yellow)](./Petro%20Hordiienko%20CV.pdf)
+
 
 ## 📫 Contact
 📧 **Email:** [petro@hordiienko.co](mailto:petro@hordiienko.co)  
