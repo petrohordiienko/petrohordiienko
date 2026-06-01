@@ -1,6 +1,6 @@
 ## Hi there 🤗
 
-✧ Results-driven **Software Engineer** with extensive experience designing, developing and architecting modern software solutions
+✧ Results-driven **Software Engineer** with extensive experience designing, developing and architecting modern software solutions  
 ✧ Driving industries forward with innovative, cutting-edge technologies  
 ✧ Excels across diverse technological landscapes, consistently embracing the forefront of innovation  
 ✧ Proven leader of cross-functional teams, fostering collaboration and delivering high-impact projects with precision  
